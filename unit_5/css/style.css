@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Kristi|Open+Sans&display=swap');
+
+body {
+	background-color: #e0e0e0;
+	text-align: center;
+	font-size: 18px;
+	color: #4b4b4b;
+	font-family: 'Open Sans', sans-serif;
+	max-width: 900px;
+	margin: auto;
+}
+
+h2{
+	color:#4b4b4b;
+	text-align: center;
+	font-size: 22px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+	color:#4b4b4b;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Kristi', cursive;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
