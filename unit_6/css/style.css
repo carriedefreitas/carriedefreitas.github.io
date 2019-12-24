@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Kristi|Open+Sans&display=swap');
+
+body {
+	background-color: #e0e0e0;
+	text-align: center;
+	font-size: 18px;
+	color: #4b4b4b;
+	font-family: 'Open Sans', sans-serif;
+	margin: auto;
+}
+
+h2{
+	color:#4b4b4b;
+	text-align: center;
+	font-size: 22px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+	color:#4b4b4b;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Kristi', cursive;
+}
+header {
+	padding: 20px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+  	width: 600px;
+}
+
+nav {
+	padding: 20px;
+	font-size: 18px;
+ 	float: right;
+} 
+
+nav a {	
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+}
+
+a:hover {
+	background-color: #e0e0e0;
+	color:#7ACCC8;
+
+}
+aside {
+	padding: 20px;
+	text-align: left;
+	border:2px solid #25B39B;
+	border-radius: 25px;
+
+}
+article {
+	padding: 20px;
+	text-align: left;
+}
+footer {
+	padding: 50px;
+
+}div {
+	padding: 20px;
+}
+
+section {
+	padding: 20px;
+}
+
+#two_column {
+   padding: 20px;
+}
+
+#left {
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
