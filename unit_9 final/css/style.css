@@ -96,11 +96,6 @@ section {
     clear: both;
     height: 0;
 }
-#pic {
-	display: block;
-	margin: 0 auto;
-  	width: 65%;
-}
 @media only screen and (max-width: 1106px) {
 	#right {
 		float: none;
