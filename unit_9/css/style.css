@@ -88,6 +88,10 @@ section {
     float: right;   
     width: 62%;
 }
+#pic {
+    max-width: 300px;
+    }
+
 .clearfix:after {
     visibility: hidden;
     display: block;
